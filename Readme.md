@@ -4,7 +4,7 @@ Universidade do Minho
 
 nota final prática - 19 
 
-Todos trabalhos práticos utilizou-se o software proteus para testar onde em cada pasta contém todos ficheiros utilizados
+Todos trabalhos práticos utilizou-se o software proteus para testar. Em cada pasta contém todos ficheiros utilizados
 
 Realizado com :
 
